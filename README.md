@@ -121,77 +121,41 @@
  <div class="row">
  <div class="col-md-4">
  <div class="card mb-4 shadow-sm"> <span class="navbar-toggler-icon"></span>
-80
  </button>
-81
 ​
-82
  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-83
  <ul class="navbar-nav mr-auto">
-84
 ​
-85
  </ul>
-86
  <ul class="navbar-nav">
-87
  <li class="nav-item">
-88
  <a class="nav-link textoBranco" href="#projetos">Instrumentos</a>
-89
  </li>
-90
  <li class="nav-item">
-91
  <a class="nav-link textoBranco" href="#sobre-mim">SOBRE MusicaLE</a>
-92
  </li>
-93
  </ul>
-94
  </div>
-95
  </nav>
-96
 ​
-97
  <meta charset="UTF-8">
-98
  <link rel = "stylesheet" href = "style.css">
-99
  <section class="jumbotron text-center corPrimaria">
-100
  <div class="container">
-101
 ​
-102
  <h1 class="jumbotron-heading textoBranco">RV23 Artigos Esportivos</h1>
-103
 ​
-104
  <p> <i>Localizado na rua 14 de dezembro. </i> </p>
-105
 <p> Nossa empresa foca no <strong>desenvolvimento e bem estar</strong> dos nossos jogadores, pensando em seu futuro promissor no esporte utilizando os melhores produtos<p>
-106
 <p> Vendemos todo tipo de equipamentos para <strong>futebol</strong></p>
-107
 <p> <b>Temos em nossa loja:</b> </p>
-108
 <p> Chuteiras de todas as marcas, modelos e cores.</p>
-109
 <p> Uniformes oficiais de times do Brasileirão série A e B, Premier League, Bundesliga, La liga entre outros.</p>
-110
 <p> Bolas oficiais de todas as ligas</p></b> </p>
-111
 ​
-112
 <p> <b> CONTATO: </b> (42) 98318-9550 </b> </p>
-113
 ​
-114
 ​
-115
 
  <img class="card-img-top"
  data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail"
@@ -235,120 +199,63 @@
  <img class="card-img-top"
  data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail"
  alt="Thumbnail [100%x225 <span class="navbar-toggler-icon"></span>
-80
  </button>
-81
 ​
-82
  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-83
  <ul class="navbar-nav mr-auto">
-84
 ​
-85
  </ul>
-86
  <ul class="navbar-nav">
-87
  <li class="nav-item">
-88
  <a class="nav-link textoBranco" href="#projetos">Instrumentos</a>
-89
  </li>
-90
  <li class="nav-item">
-91
  <a class="nav-link textoBranco" href="#sobre-mim">SOBRE MusicaLE</a>
-92
  </li>
-93
  </ul>
-94
  </div>
-95
  </nav>
-96
 ​
-97
  <meta charset="UTF-8">
-98
  <link rel = "stylesheet" href = "style.css">
-99
  <section class="jumbotron text-center corPrimaria">
-100
  <div class="container">
-101
 ​
-102
  <h1 class="jumbotron-heading textoBranco">RV23 Artigos Esportivos</h1>
-103
 ​
-104
  <p> <i>Localizado na rua 14 de dezembro. </i> </p>
-105
 <p> Nossa empresa foca no <strong>desenvolvimento e bem estar</strong> dos nossos jogadores, pensando em seu futuro promissor no esporte utilizando os melhores produtos<p>
-106
 <p> Vendemos todo tipo de equipamentos para <strong>futebol</strong></p>
-107
 <p> <b>Temos em nossa loja:</b> </p>
-108
 <p> Chuteiras de todas as marcas, modelos e cores.</p>
-109
 <p> Uniformes oficiais de times do Brasileirão série A e B, Premier League, Bundesliga, La liga entre outros.</p>
-110
 <p> Bolas oficiais de todas as ligas</p></b> </p>
-111
 ​
-112
 <p> <b> CONTATO: </b> (42) 98318-9550 </b> </p>
-113
 ​
-114 <span class="navbar-toggler-icon"></span>
-80
+<span class="navbar-toggler-icon"></span>
  </button>
-81
 ​
-82
  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-83
  <ul class="navbar-nav mr-auto">
-84
 ​
-85
  </ul>
-86
  <ul class="navbar-nav">
-87
  <li class="nav-item">
-88
  <a class="nav-link textoBranco" href="#projetos">Instrumentos</a>
-89
  </li>
-90
  <li class="nav-item">
-91
  <a class="nav-link textoBranco" href="#sobre-mim">SOBRE MusicaLE</a>
-92
  </li>
-93
  </ul>
-94
  </div>
-95
  </nav>
-96
 ​
-97
  <meta charset="UTF-8">
-98
  <link rel = "stylesheet" href = "style.css">
-99
  <section class="jumbotron text-center corPrimaria">
-100
  <div class="container">
-101
 ​
-102
  <h1 class="jumbotron-heading textoBranco">RV23 Artigos Esportivos</h1>
 103
 ​
