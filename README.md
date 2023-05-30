@@ -257,34 +257,20 @@
  <div class="container">
 ​
  <h1 class="jumbotron-heading textoBranco">RV23 Artigos Esportivos</h1>
-103
 ​
-104
  <p> <i>Localizado na rua 14 de dezembro. </i> </p>
-105
 <p> Nossa empresa foca no <strong>desenvolvimento e bem estar</strong> dos nossos jogadores, pensando em seu futuro promissor no esporte utilizando os melhores produtos<p>
-106
 <p> Vendemos todo tipo de equipamentos para <strong>futebol</strong></p>
-107
 <p> <b>Temos em nossa loja:</b> </p>
-108
 <p> Chuteiras de todas as marcas, modelos e cores.</p>
-109
 <p> Uniformes oficiais de times do Brasileirão série A e B, Premier League, Bundesliga, La liga entre outros.</p>
-110
 <p> Bolas oficiais de todas as ligas</p></b> </p>
-111
 ​
-112
 <p> <b> CONTATO: </b> (42) 98318-9550 </b> </p>
-113
 ​
-114
 ​
-115
 
 ​
-115
 ]" style="height: 225px; width: 100%; display: block;"
  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmV46I1GgDtZETgAumuvGMB2Dejh_JXUe298RA2jwlMW3mSEXn0G4xf3N50h0P7ooDQA&usqp=CAU" data-holder-rendered="true">
  <div class="card-body">
